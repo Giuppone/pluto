@@ -1,4 +1,6 @@
 # Query data working with Nasa ADS database and representation of integrations to search resonances
+# Work on google collab and link to google drive enviroment
+
 astroquery-20220101.ipynb - example starting the query 01 01 2022
 
 astroquery-20210101.ipynb - example starting the query 01 01 2021
